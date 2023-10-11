@@ -3,8 +3,8 @@
     "type": "object",
     "$metadata": {
       "uris": {
-        "jsonLdContext": "https://raw.githubusercontent.com/vinodmalali/custom-schema-emp/main/proof-of-employee.jsonld",
-        "jsonSchema": "https://raw.githubusercontent.com/vinodmalali/custom-schema-emp/main/proof-of-employee.json"
+        "jsonLdContext": "https://raw.githubusercontent.com/pradeep-c-gopai/zkpschema/main/proof-of-employee.jsonld",
+        "jsonSchema": "https://raw.githubusercontent.com/pradeep-c-gopai/zkpschema/main/proof-of-employee.json"
       }
     },
     "required": [
